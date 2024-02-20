@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @matinocosty
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java basics, MOOC.fi course
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I'm Mateusz
+- 👀 I’m interested in 
+- 🌱 I’m currently learning :))
+- ✅ MOOC.FI JAVA I & II
+- 🧑‍💻 CS50 in progress
 
 <!---
 matinocosty/matinocosty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
