@@ -1,5 +1,4 @@
-- 👋 Hi, I'm Mateusz
-- 👀 I’m interested in 
+- 👋 Hi, I'm Mateusz 🇵🇱
 - 🌱 I’m currently learning :))
 - ✅ MOOC.FI JAVA I & II
 - 🧑‍💻 CS50 in progress
