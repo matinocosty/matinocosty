@@ -1,7 +1,8 @@
 - 👋 Hi, I'm Mateusz 🇵🇱
 - 🌱 I’m currently learning :))
 - ✅ MOOC.FI JAVA I & II
-- 🧑‍💻 CS50 FINAL PROJECT in progress
+- ✅ CS50X
+- 🧑‍💻 Spring in progress
 
 <!---
 matinocosty/matinocosty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
